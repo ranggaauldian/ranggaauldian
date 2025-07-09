@@ -27,5 +27,7 @@
 ---
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=0FFFF&center=true&vCenter=true&width=900&lines=TERIMAKASIH%2C+TELAH+MENGUNJUNGI+SITUS INI;Coding+Adalah+Passion+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=0FFFF&center=true&vCenter=true&width=900&lines=TERIMAKASIH%2C+TELAH+MENGUNJUNGI+SITUS;Rangga+Auldian+P%F0%9F%94%A5" alt="Typing SVG" />
+
+
 
